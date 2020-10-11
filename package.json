@@ -1,15 +1,14 @@
 {
   "name": "danjordan",
   "description": "Dan Jordan's card",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Dan Jordan",
   "bin": {
     "danjordan": "cli.js"
   },
   "bugs": {},
   "dependencies": {
-    "boxen": "^3.0.0",
-    "left-pad": "^1.3.0"
+    "boxen": "^4.2.0"
   },
   "keywords": [
     "card",
