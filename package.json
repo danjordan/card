@@ -3,12 +3,13 @@
   "description": "Dan Jordan's card",
   "version": "2.0.0",
   "author": "Dan Jordan",
+  "type": "module",
   "bin": {
     "danjordan": "cli.js"
   },
   "bugs": {},
   "dependencies": {
-    "boxen": "^4.2.0"
+    "boxen": "^7.1.1"
   },
   "keywords": [
     "card",
